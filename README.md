@@ -18,11 +18,11 @@ I built a **Flappy Bird game using JavaScript** by following a YouTube tutorial.
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flappybirdgame.git
+   git clone https://github.com/yourusername/flappybird.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd flappybirdgame
+   cd flappybird
    ```
 3. Open the `index.html` file in your browser.
 
